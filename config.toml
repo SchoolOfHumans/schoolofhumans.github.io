@@ -1,3 +1,4 @@
 baseURL = 'http://schoolofhumans.org'
 languageCode = 'en-us'
 title = 'School of Humans'
+publishDir = "docs"
