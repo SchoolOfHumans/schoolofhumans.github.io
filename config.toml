@@ -1,4 +1,4 @@
-baseURL = 'http://schoolofhumans.org'
+baseURL = 'https://schoolofhumans.github.io/website/'
 languageCode = 'en-us'
 title = 'School of Humans'
 publishDir = "docs"
