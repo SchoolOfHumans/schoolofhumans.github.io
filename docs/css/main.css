@@ -127,7 +127,6 @@ strong {
 .logo {
     font-weight: normal;
     object-fit: contain;
-    max-width: 200px;
     height: auto;
 }
 
